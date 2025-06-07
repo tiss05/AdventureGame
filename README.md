@@ -1,4 +1,4 @@
-# Animal Adoption Mini-Game
+# AdventureGame: Animal Adoption Mini-Game
 
 A simple fun Python console game where you explore a grid to adopt animals!
 
